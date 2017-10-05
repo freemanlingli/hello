@@ -1,5 +1,6 @@
 1.mvn archetype:generate -DgroupId=com.app -DartifactId=hello -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 2.github建立hello 库，clone下来
 
-3
-4
+3. 发现老是提交需要输入 用户名密码， 将eclipse /General -> Security -> Secure Storage -> Content 删除，就ok了
+
+5. 终于可以了
