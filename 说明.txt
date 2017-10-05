@@ -1,2 +1,4 @@
 1.mvn archetype:generate -DgroupId=com.app -DartifactId=hello -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 2.github建立hello 库，clone下来
+
+3
