@@ -39,8 +39,7 @@
 				<configuration>
 					<useReleaseProfile>false</useReleaseProfile>
 					<autoVersionSubmodules>true</autoVersionSubmodules>
-					<username>freemanlingli</username>
-					<password>lingli100</password>
+				
 					
 				</configuration>
 			</plugin>
