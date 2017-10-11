@@ -1,2 +1,3 @@
-# hello   https://travis-ci.org/freemanlingli/hello.svg?branch=master
-test github continue
+# hello  
+hello, ci status : https://travis-ci.org/freemanlingli/hello.svg?branch=master
+
