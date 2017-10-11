@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.app</groupId>
   <artifactId>hello-app</artifactId>
-  <version>1.7</version>
+  <version>1.12</version>
   <name>hello-app</name>
   <scm>
     <connection>scm:git:https://github.com/freemanlingli/hello.git</connection>
