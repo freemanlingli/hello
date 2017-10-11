@@ -7,12 +7,11 @@
 	<version>1.15-SNAPSHOT</version>
 	<name>hello-app</name>
 	<scm>
-		<connection>scm:git:https://github.com/freemanlingli/hello.git</connection>
-		<developerConnection>scm:git:https://github.com/freemanlingli/hello.git</developerConnection>
-		<url>https://github.com/freemanlingli/hello/tree/master</url>
+		
+		<developerConnection>scm:git:https://freemanlingli:lingli100@github.com/freemanlingli/hello.git</developerConnection>
+		 
 		<tag>HEAD</tag>
 	</scm>
-
 	<distributionManagement>
 		<repository>
 			<id>nexus</id>
@@ -42,6 +41,8 @@
 				<configuration>
 					<useReleaseProfile>false</useReleaseProfile>
 					<autoVersionSubmodules>true</autoVersionSubmodules>
+					<username>freemanlingli</username>
+				    <username>lingli100</username>
 				</configuration>
 			</plugin>
 		</plugins>
