@@ -4,7 +4,7 @@
 	<groupId>com.app</groupId>
 	<artifactId>hello-app</artifactId>
 	<packaging>jar</packaging>
-	<version>1.16-SNAPSHOT</version>
+	<version>1.17-SNAPSHOT</version>
 	<name>hello-app</name>
 	<scm>
 		<developerConnection>scm:git:https://github.com/freemanlingli/hello.git</developerConnection>
@@ -39,8 +39,8 @@
 				<configuration>
 					<useReleaseProfile>false</useReleaseProfile>
 					<autoVersionSubmodules>true</autoVersionSubmodules>
-				
-					
+				     <username>freemanlingli</username>
+       				 <password>lingli100</password>
 				</configuration>
 			</plugin>
 		</plugins>
