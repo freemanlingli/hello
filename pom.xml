@@ -3,11 +3,11 @@
 	<groupId>com.app</groupId>
 	<artifactId>hello-app</artifactId>
 	<packaging>jar</packaging>
-	<version>1.19</version>
+	<version>1.20-SNAPSHOT</version>
 	<name>hello-app</name>
 	<scm>
 		<developerConnection>scm:git:https://github.com/freemanlingli/hello.git</developerConnection>
-		<tag>hello-app-1.19</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<distributionManagement>
 		<repository>
